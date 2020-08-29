@@ -1,7 +1,7 @@
 ### Gráficas dinámicas: Calle Bélgica-Calle Sofía
-1. **Variación en tensión, intensidad y potencia horaria a lo largo de un día: Comparativa con la irradiancia**:[VIP-R_Diaria](https://juliauru.github.io/D.BelgicaBelgica/Curva_diaria_1.html)
+1. **Variación en tensión, intensidad y potencia horaria a lo largo de un día: Comparativa con la irradiancia**:[VIP-R_Diaria](https://juliauru.github.io/D.Belgica/Curva_diaria_1.html)
 * Gráfica dinámica donde se pueden observar la tensión, intensidad y potencia horaria en un día para cada línea de estudio y cada valor de penetración fotovoltaica (0%,25%,50%,75% y 100%). Se pueden realizar comparativas dinámicas clicando en los botones superiores y la leyenda, y variar el día de estudio con el slider inferior.
-2. **Variación en tensión, intensidad y potencia según la irradiancia incidente**: [VIP_Irradiancia](https://juliauru.github.io/D.BelgicaBelgica/VIP_anual_TY_2.html)
+2. **Variación en tensión, intensidad y potencia según la irradiancia incidente**: [VIP_Irradiancia](https://juliauru.github.io/D.Belgica/VIP_anual_TY_2.html)
 * Gráfica dinámica con la tensión, intensidad y potencia en eje de ordenadas y la irradiancia incidente en eje de abcisas, para cada uno de los meses del año.
 3. **Detalle del caso anterior. Intensidad-Irrandiancia.Colormap con el desfase entre tensión e intensidad**:
     * [LINEA 76](https://juliauru.github.io/D.Belgica/Iangle_9/Ia_line76.html)
